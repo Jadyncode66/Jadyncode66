@@ -12,9 +12,6 @@ Client -> Proxy Server -> Origin Server -> Proxy Server -> Client.
 
 This project uses modules: **binascii, socket, and sys, re**
 
-NOTE: When choosing url to send to proxy, refrain from using **http://**. The code will crash and the proxy will not recognize the url.
-![image](https://user-images.githubusercontent.com/68576099/193414680-fa994d3b-4172-4124-b87c-598d53e16434.png)
-
 **LAUNCH**
 
 To launch code, run the proxy server first and then run the client as shown below:

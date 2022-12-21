@@ -13,7 +13,7 @@ This project uses modules: **asyncio**
 **LAUNCH**
 
 To launch code, run the server first and then run the client as shown below:
-![image](https://user-images.githubusercontent.com/68576099/193414788-fb05f93c-6c7a-41ba-86a7-c01f6fa9e2d0.png)
+![image](https://user-images.githubusercontent.com/68576099/208819022-a183d6cf-d736-4d46-bb72-3be0fd116610.png)
 
 **EXITING CHAT**
 When you want to exit the chat:
